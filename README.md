@@ -32,7 +32,7 @@
 </p>
 <h3>✏️Sobre mim:</h3><br/>
 <p>
-  👨 <bold>Joao Victor</bold>.<br/>
+  👨 <bold>Joao Victor Salim</bold>.<br/>
   💼 <a href="https://www.google.com/maps?q=belo+horizonte">Belo Horzionte</a>, Brasil.<br/>
   💻 Estudante de Engenharia de Software.<br/>
   🎓 PUC Minas.
