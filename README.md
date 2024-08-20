@@ -36,8 +36,8 @@
 </p>
 <h3>✏️Sobre mim:</h3><br/>
 <p>
-  👨 Nome: <bold>Joao Victor</bold>.<br/>
-  💼 Vivo em <a href="https://www.google.com/maps?q=belo+horizonte">Belo Horzionte</a>, no Brasil.<br/>
+  👨 <bold>Joao Victor</bold>.<br/>
+  💼 <a href="https://www.google.com/maps?q=belo+horizonte">Belo Horzionte</a>, no Brasil.<br/>
   💻 Estudante de Engenharia de Software.<br/>
   🎓 PUC Minas.
 </p>
