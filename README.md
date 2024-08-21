@@ -18,7 +18,7 @@
   </p>
 </p>
 <p>
-  🔎 Precisa entrar em contato comigo? Encontre-me aqui :<br/>
+  🔎 Precisa entrar em contato comigo? Encontre-me aqui:<br/>
   <a href="https://instagram.com/salimtrad"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/salimtrad"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -31,7 +31,7 @@
   🎓 PUC Minas.
 </p>
 <p>
-  🔗 Deseja entrar em contato ? Mande um <a href="">email</a>!
+  🔗 Deseja entrar em contato? Mande um <a href="">email</a>!
 </p>
 
 ![](./profile-3d-contrib/profile-green-animate.svg) 
